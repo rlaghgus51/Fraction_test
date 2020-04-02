@@ -1,0 +1,9 @@
+e:\documents\visual studio 2017\Projects\Experiment\Experiment\bin\Debug\Experiment.exe.config
+e:\documents\visual studio 2017\Projects\Experiment\Experiment\bin\Debug\Experiment.exe
+e:\documents\visual studio 2017\Projects\Experiment\Experiment\bin\Debug\Experiment.pdb
+e:\documents\visual studio 2017\Projects\Experiment\Experiment\obj\Debug\Experiment.Form1.resources
+e:\documents\visual studio 2017\Projects\Experiment\Experiment\obj\Debug\Experiment.Properties.Resources.resources
+e:\documents\visual studio 2017\Projects\Experiment\Experiment\obj\Debug\Experiment.csproj.GenerateResource.Cache
+e:\documents\visual studio 2017\Projects\Experiment\Experiment\obj\Debug\Experiment.exe
+e:\documents\visual studio 2017\Projects\Experiment\Experiment\obj\Debug\Experiment.pdb
+e:\documents\visual studio 2017\Projects\Experiment\Experiment\obj\Debug\Experiment.csprojResolveAssemblyReference.cache
